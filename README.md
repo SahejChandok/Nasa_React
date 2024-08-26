@@ -1,4 +1,4 @@
-Nasa React App
+#Nasa React App
 This project aims to understand and learn the concepts of data fetching from an API in React. It uses the NASA APOD (Astronomy Picture of the Day) API to fetch information and present it in an appealing UI to users.
 
 Features
