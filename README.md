@@ -1,8 +1,12 @@
-# React + Vite
+Nasa React App
+This project aims to understand and learn the concepts of data fetching from an API in React. It uses the NASA APOD (Astronomy Picture of the Day) API to fetch information and present it in an appealing UI to users.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Fetches data from the NASA APOD API
+Displays information in a user-friendly interface
+Utilizes React Hooks for state and effect management
+Demonstrates component structure and props usage
+Concepts Covered
+React Hooks
+Component Structure
+Props
