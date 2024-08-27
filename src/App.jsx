@@ -15,7 +15,7 @@ function App() {
     const nasaApi = import.meta.env.VITE_NASA_API_KEY
     //console.log("API", nasaApi)
     async function fetchData(){
-      const url = 'https://api.nasa.gov/planetary/apod/' + `?api_key=${nasaApi}`
+      const url = 'https://api.nasa.gov/planetary/apod' + `?api_key=${nasaApi}`
       try{
         const res = await fetch(url)
         const apiData = await res.json()
