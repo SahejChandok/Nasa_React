@@ -9,4 +9,4 @@ This project aims to understand and learn the concepts of data fetching from an 
 * Utilizes React Hooks for state and effect management
 * Demonstrates component structure and props usage
 
-## Live Link
+## Live Link https://master--nasa-reactt-ap.netlify.app/
